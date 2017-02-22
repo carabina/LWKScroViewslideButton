@@ -17,6 +17,6 @@ typedef void(^selectIndex)(int,NSString *);
 - (instancetype)initWithFrame:(CGRect)frame andButtonStrs:(NSArray *)strArray;
 - (void)setScrollViewBackColor:(UIColor *)ScrollViewBackColor andSetButtonTextColor:(UIColor *)ButtonTextColor andSetButtonSelectTextColor:(UIColor *)ButtonSelectTextColor;
 - (void)setButtonWidth:(CGFloat)width;
-- (void)setButtonTextFont:(CGFloat)font andIsBold:(BOOL)boolol;
+
 @property(nonatomic,copy)selectIndex selectBlack;
 @end

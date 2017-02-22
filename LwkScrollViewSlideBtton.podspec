@@ -26,6 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
                    A sliding button to view the iOS
+                   A sliding button to view the iOS
                    DESC
 
   s.homepage     = "https://github.com/LWKMUMU/LWKScroViewslideButton.git"
